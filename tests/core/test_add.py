@@ -1,5 +1,4 @@
 import unittest
-import scientic_calculator.core as core
 
 
 class TestAdd(unittest.TestCase):
